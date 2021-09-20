@@ -70,30 +70,32 @@ Add keys to pause, resume, or restart the game.
 
 ## Background 
 
-                URL: 
+                URL: https://github.com/renanpvaz/java-snake 
                 
                 
 *_BUILDING_* 
                 
-                - This project will be using Java, but if comfortable you can use                       Python
-                - Also ran this code using InteliJ, probably can use any other idle                     as long as they are compatiable with GitHub 
-                - Need to make sure you have the most up to data JDK if writing in                     Java 
-                - This source code is also using a .jar file so make sure you have                     the most up-to date one 
-                              https://github.com/renanpvaz/java-snake/releases
+                - This project will be using Java, but if comfortable you can use Python
+                - Also ran this code using InteliJ, probably can use any other idle as long as they are compatiable with GitHub 
+                - Need to make sure you have the most up to data JDK if writing in Java 
+                - This source code is also using a .jar file so make sure you have the most up-to date one 
+                                                 https://github.com/renanpvaz/java-snake/releases
 
 
 *_RUNNING_* 
 
                - To run this you need to clone the GitHub repository
-               - Once cloned, you need to make sure you are in the folder where the                    .jar file is located, if not it won't be able to run 
-               - Once you change you directory and are in the correct folder, in                      terminal type this command 
+               - Once cloned, you need to make sure you are in the folder where the .jar file is located, if not it won't be able to run 
+               - Once you change you directory and are in the correct folder, in terminal type this command 
 
 
 
-                                java -jar snake.jar 
+                                                                java -jar snake.jar 
                                 
                                 
-               - Once you hit enter the snake game should come up and you will be                      able to play 
+                                          
+                                
+               - Once you hit enter the snake game should come up and you will be able to play 
                         
                 
 
