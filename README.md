@@ -1,4 +1,6 @@
 # IndividualProjectProposal
+# Snake Game By: Casey Maloney 
+## A game where a hungry snake grows in length when he eats an apple
 
 
 ## Project Abstract
@@ -99,7 +101,7 @@ Add keys to pause, resume, or restart the game.
                         
                 
 
-![image](
+![image](snakegame.JPEG) 
 
 
 
